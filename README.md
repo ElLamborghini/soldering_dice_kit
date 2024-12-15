@@ -1,5 +1,7 @@
 # Soldering the electronic dice soldering kit
 
+A university project in the course IN5590
+
 ### About
 
 I have soldered the following soldering kit: 
